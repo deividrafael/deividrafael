@@ -9,10 +9,21 @@
 
 ![deividrafael GitHub stats](https://github-readme-stats.vercel.app/api?username=deividrafael&show_icons=true&theme=highcontrast)
 
+
+<h3 align="left">Data Engineer:</h3>
+<a href="https://azure.microsoft.com/pt-br/products/data-factory" target="_blank" rel="noreferrer">
+<img src="https://symbols.getvecta.com/stencil_28/27_data-factory.8004c08598.svg" alt="css3" width="40" height="40"/> </a> 
+
+<a href="https://www.databricks.com/br" target="_blank" rel="noreferrer">
+<img src="https://asset.brandfetch.io/idSUrLOWbH/idxN8rZ-u3.png?updated=1667650343628" alt="css3" width="40" height="40"/> </a> 
+
+<a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="css3" width="40" height="40"/> </a> 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
